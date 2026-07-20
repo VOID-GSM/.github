@@ -7,5 +7,6 @@
 ### GIF (GSM Idea Festival)
 광주소프트웨어마이스터고등학교 아이디어 페스티벌을 하나의 플랫폼에서 운영할 수 있도록 만든 통합 관리 서비스입니다.
 
-[GIF 서비스 바로가기(학생용)](https://gif.io.kr/)<br>
-[GIF 서비스 바로가기(선생님용)](https://admin.gif.io.kr/)
+[GIF 서비스 바로가기](https://gif.io.kr/)<br>
+
+<img width="1915" height="1080" alt="GIF_Mockup" src="https://github.com/user-attachments/assets/4c42b0a4-fc41-4f78-8429-5ea2e29e93c7" />
