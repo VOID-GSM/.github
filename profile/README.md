@@ -10,3 +10,10 @@
 [GIF 서비스 바로가기](https://gif.io.kr/)<br>
 
 <img width="1915" height="1080" alt="GIF_Mockup" src="https://github.com/user-attachments/assets/4c42b0a4-fc41-4f78-8429-5ea2e29e93c7" />
+
+### Rels
+광주소프트웨어마이스터고 학생 주도 강연 개설 및 신청 기반 릴레이 스터디 진행 서비스입니다.
+
+[Rels 서비스 바로가기](https://rels.io.kr/)<br>
+
+<img width="5760" height="3240" alt="Rels-mockup" src="https://github.com/user-attachments/assets/01843e5e-ce94-4309-bf94-a75d612a3e09" />
